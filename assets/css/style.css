@@ -21,7 +21,7 @@ body {
 .loginBox {
     width: 350px;
     height: 420px;
-    padding: 60px 40px 80px 40px;
+    padding: 60px 40px 80px;
     background-color: rgba(0, 0, 0, .5);
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 h2 {
-    padding: 0 0 20px 0;
+    padding: 0 0 20px;
     color: #f8663b;
     text-align: center;
 }
